@@ -1,5 +1,6 @@
-### Hi there 👋, My name is Vivek kumar
-#### Hi
+# Hi there 👋, This is Vivek kumar
+## I have adaptive learning abilities and I like opportunities to enhance my knowledge and skills. I deliver my best with passion and build some good results.
+
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQFqd4tGfN799A/profile-displaybackgroundimage-shrink_350_1400/0/1607326760882?e=1615420800&v=beta&t=50UXY3IL2--lVxRUjQqdqfNAgswn92gcdFbNG5tQT_g)
 
 
