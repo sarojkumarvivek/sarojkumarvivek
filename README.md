@@ -1,15 +1,15 @@
 # Hi there 👋, This is Vivek kumar
 ### Experience in Cyber Security as Security Analyst and willing to raise the bar in terms of knowledge and skills.
 
-### ● Perform the role of primary incident coordinator for all security events, requiring focused response, containment, investigation, and remediation(Handling SOC operations).
-### ● Performs real-time proactive security monitoring and reporting on various security and threat monitoring systems.
-### ● Review logs from security monitoring tools integrated with various devices like IDS, Firewalls, Endpoint Protection.
-### ● Analyzing the breaches, attacks, malicious activities, unauthorized access and triage the incident data, determine the impact of the incident, and act appropriately to limit the damage and make sure all the company assets are free from external attacks.
-### ● Strong understanding of Networking and Operating systems concepts in order to triage the incident.
-### ● Ability to work in rotating shifts and support weekend activity (24x7)
-### ● Monitor and manage security technologies to prevent, detect, and respond to threats.
-### ● Document ongoing incidents, after action reports and create runbooks that contain the workflow and escalation Matrix.
-### ● Continually learn new technology and stay updated on cyber threats.
+##### ● Perform the role of primary incident coordinator for all security events, requiring focused response, containment, investigation, and remediation(Handling SOC operations).
+##### ● Performs real-time proactive security monitoring and reporting on various security and threat monitoring systems.
+##### ● Review logs from security monitoring tools integrated with various devices like IDS, Firewalls, Endpoint Protection.
+##### ● Analyzing the breaches, attacks, malicious activities, unauthorized access and triage the incident data, determine the impact of the incident, and act appropriately to limit the damage and make sure all the company assets are free from external attacks.
+##### ● Strong understanding of Networking and Operating systems concepts in order to triage the incident.
+##### ● Ability to work in rotating shifts and support weekend activity (24x7)
+##### ● Monitor and manage security technologies to prevent, detect, and respond to threats.
+##### ● Document ongoing incidents, after action reports and create runbooks that contain the workflow and escalation Matrix.
+##### ● Continually learn new technology and stay updated on cyber threats.
 
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQFqd4tGfN799A/profile-displaybackgroundimage-shrink_350_1400/0/1607326760882?e=1615420800&v=beta&t=50UXY3IL2--lVxRUjQqdqfNAgswn92gcdFbNG5tQT_g)
 
